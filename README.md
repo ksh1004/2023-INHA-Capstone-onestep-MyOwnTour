@@ -13,11 +13,12 @@
 ![image](assets/capstone_award.png)
 
 ## 시연 영상
-[![Video Label](http://img.youtube.com/vi/hA-6dIbXYBE/0.jpg)](https://youtu.be/hA-6dIbXYBE)
+[![Video Label]](https://www.youtube.com/watch?v=Xzppjm6Wxkk)
+
 ## 팀원 소개
 |이름|역할|링크|
 |------|---|---|
-|김순하| 백엔드, 성과발표회 발표자||[GITHUB](https://github.com/ksh1004)|
+|김순하| 백엔드, 성과발표회 발표자|[GITHUB](https://github.com/ksh1004)|
 |윤보영| 팀장, 프론트엔드|
 |윤여선| 크롤링||
 
